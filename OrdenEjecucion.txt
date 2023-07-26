@@ -1,0 +1,4 @@
+1ºScript de tablas
+2ºScript de consultas
+3ºScript de procedimientos, funciones y triggers
+4ºScript de ensayos
